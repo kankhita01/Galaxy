@@ -1,0 +1,49 @@
+* { margin: 0px; padding: 0px; }
+header { width: 90%; margin: 20px 5%; display: flex; justify-content: space-between; }
+.logo { }
+.nav { }
+header nav { }
+header nav ul { list-style: none; }
+header nav ul li { }
+header nav ul li a { text-decoration: none; color: rgb(151, 153, 155); font-size: 13px; font-weight: 400; font-family: Roboto, sans-serif; }
+.banner { position: relative; }
+.banner img { width: 100%; }
+.banner_content { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; }
+.banner_content h1 { color: rgb(255, 255, 255); font-size: 32.38px; font-weight: 400; font-family: Roboto, sans-serif; text-transform: uppercase; }
+.banner_content p { font-size: 15px; font-weight: 400; font-family: Roboto, sans-serif; color: rgb(255, 255, 255); margin-top: 15px; }
+.banner_content button { border: 2px solid white; padding: 15px 30px; background-color: rgb(251, 110, 82); margin-top: 15px; text-transform: capitalize; }
+.items { display: flex; justify-content: space-between; width: 80%; margin: 50px auto auto; }
+.web { position: relative; width: 14%; text-align: center; }
+.web img { }
+.icon { position: absolute; top: 2%; left: 34%; transform: translate(50%, 50%); }
+.icon img { }
+.web h3 { font-family: Roboto, sans-serif; font-size: 15px; font-weight: 400; margin-top: 15px; margin-bottom: 15px; }
+.web p { font-family: Roboto, sans-serif; font-size: 13px; font-weight: 400; }
+.paragraph { width: 32%; margin: auto; text-align: center; }
+.paragraph h1 { margin-top: 70px; margin-bottom: 70px; color: rgb(251, 110, 82); font-size: 20px; font-weight: 300; font-style: italic; font-family: Roboto, sans-serif; }
+.content { display: flex; justify-content: space-between; width: 90%; margin-left: 5%; }
+.first_content { text-align: center; }
+.first_content img { height: 300px; }
+.first_content h4 { font-size: 15px; font-weight: 400; margin-top: 15px; font-family: Roboto, sans-serif; text-transform: capitalize; }
+.first_content p { font-size: 13px; font-weight: 400; margin-top: 15px; color: rgb(151, 153, 155); font-family: Roboto, sans-serif; margin-bottom: 70px; }
+.blog { background-color: rgb(249, 249, 249); text-align: center; padding: 70px; }
+.blog h1 { font-weight: 400; color: rgb(41, 44, 52); font-size: 20px; text-transform: uppercase; font-family: Roboto, sans-serif; }
+.image_section { display: flex; justify-content: space-around; margin: 0px 200px 30px; background-color: rgb(249, 249, 249); }
+.first_image { width: 46%; }
+.first_image img { height: 500px; width: 100%; }
+.first_image h4 {color: rgb(251, 110, 82);font-size: 15px;font-weight: 400;font-family: Roboto, sans-serif;margin-bottom: 15px;margin-top: 15px;}
+.first_image p { color: rgb(151, 153, 155); font-size: 13px; font-weight: 400; font-family: Roboto, sans-serif; }
+footer { }
+.footer_content { background-color: rgb(41, 44, 52); display: flex; justify-content: space-between; padding: 40px 0px; margin-top: 70px; }
+.terms { display: flex; justify-content: space-between; margin-left: 100px; }
+.terms img { }
+.terms ul { }
+.terms ul li { list-style: none; }
+.terms ul li a { color: rgb(121, 124, 130); text-decoration: none; font-weight: 400; font-size: 13px; margin-top: 14px; font-family: Roboto, sans-serif; margin-left: 40px; }
+.social_content { margin-right: 162px; }
+.social_content ul { list-style: none; display: flex; justify-content: space-between; }
+.social_content ul li { margin-left: 50px; }
+.social_content ul li a { text-decoration: none; color: rgb(255, 255, 255); }
+
+
+
